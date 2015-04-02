@@ -1,0 +1,950 @@
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/weaponTestBP.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 7
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 8
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 9
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 10
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 11
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 12
+"../../../Engine/Plugins/Editor/PluginsEditor/PluginsEditor.uplugin" 13
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 14
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 15
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 16
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 17
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 18
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 19
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 20
+"../../../Engine/Plugins/Experimental/SteamVR/SteamVR.uplugin" 21
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 22
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 23
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 24
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 25
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 26
+"../../../Engine/Plugins/Messaging/ShmMessaging/ShmMessaging.uplugin" 27
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 28
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 29
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 30
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 31
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 32
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 33
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 34
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 35
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 36
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 37
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 38
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 39
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 40
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 41
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 42
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 43
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 44
+"../../../Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin" 45
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 46
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 47
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 48
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 49
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 50
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 51
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 52
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 53
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 54
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 55
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 56
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 57
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 58
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US_POSIX.res" 59
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 60
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 61
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 62
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 63
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 64
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 65
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 66
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 67
+"..\..\..\Engine\Content\Internationalization\icudt53l\plurals.res" 68
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 74
+"../../../Engine/Config/Base.ini" 75
+"../../../Engine/Config/BaseEngine.ini" 76
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Config/DefaultEngine.ini" 77
+"../../../Engine/Config/Windows/WindowsEngine.ini" 78
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Engine.ini" 79
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 80
+"../../../Engine/Config/BaseGame.ini" 81
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Config/DefaultGame.ini" 82
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Game.ini" 83
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 84
+"../../../Engine/Config/BaseInput.ini" 85
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Config/DefaultInput.ini" 86
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Input.ini" 87
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 88
+"../../../Engine/Config/BaseEditor.ini" 89
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Config/DefaultEditor.ini" 90
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Editor.ini" 91
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 92
+"../../../Engine/Config/BaseEditorLayout.ini" 93
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/EditorLayout.ini" 94
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 95
+"../../../Engine/Config/BaseEditorUserSettings.ini" 96
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Config/DefaultEditorUserSettings.ini" 97
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/EditorUserSettings.ini" 98
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/EditorUserSettings.ini" 99
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 100
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/EditorKeyBindings.ini" 101
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 102
+"../../../Engine/Config/BaseCompat.ini" 103
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Compat.ini" 104
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 105
+"../../../Engine/Config/BaseLightmass.ini" 106
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Lightmass.ini" 107
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 108
+"../../../Engine/Config/BaseScalability.ini" 109
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/Scalability.ini" 110
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 111
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/GameUserSettings.ini" 112
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 113
+"../../../Engine/Config/BaseDeviceProfiles.ini" 114
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/DeviceProfiles.ini" 115
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 116
+"../../../Engine/Config/ConsoleVariables.ini" 117
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 118
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\es.res" 119
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\es.res" 120
+"..\..\..\Engine\Content\Internationalization\icudt53l\es_ES.res" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ja.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ja.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja_JP.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ko.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ko.res" 128
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko_KR.res" 129
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 130
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 131
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\pt.res" 132
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pt.res" 133
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 134
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 135
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 136
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 137
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_CN.res" 138
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans_CN.res" 139
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans.res" 140
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh.res" 141
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_CN.res" 142
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans_CN.res" 143
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans.res" 144
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh.res" 145
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres" 146
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 147
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres" 148
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 149
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 150
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 151
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 152
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 153
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 154
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 155
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 156
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 157
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 158
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 159
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 160
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 161
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 162
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 163
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 164
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 165
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 166
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 167
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 168
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 169
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 170
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 171
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 172
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 173
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 174
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 175
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 176
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 177
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 178
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 179
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 180
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 181
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 182
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 183
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 184
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 185
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 186
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 187
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 188
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 189
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 190
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 191
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 192
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 193
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 194
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 195
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 196
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 197
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 198
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 199
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 200
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 201
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 202
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 203
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MorpheusInclude.usf" 204
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 205
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 206
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 207
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 208
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 209
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 210
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 211
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 212
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 213
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 214
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 215
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 216
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 217
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 218
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 219
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 220
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 221
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 222
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 223
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 224
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 225
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 226
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 227
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 228
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 229
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 230
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 231
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 232
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 233
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 234
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 235
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 236
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 237
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 238
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 239
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 240
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 241
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 242
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 243
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 244
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 245
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 246
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 247
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 248
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 249
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 250
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 251
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 252
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 253
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 254
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 255
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 256
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 257
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 258
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 259
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 260
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 261
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 262
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 263
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 264
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 265
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 266
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 267
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 268
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 269
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 270
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 271
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 272
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 273
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 274
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 275
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 276
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 277
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 278
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 279
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 280
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 281
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 282
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 283
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 284
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 285
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 286
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 287
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 288
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 289
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 290
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 291
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 292
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 293
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 294
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 295
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 296
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 297
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 298
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 299
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 300
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 301
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 302
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 303
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 304
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 305
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 306
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 307
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 308
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 309
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 310
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 311
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 312
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 313
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 314
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 315
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 316
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 317
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 318
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 319
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 320
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 321
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 322
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 323
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 324
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 325
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 326
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 327
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 328
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 329
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 330
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 331
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 332
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 333
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 334
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 335
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 336
+"../../../Engine/Config/Android/AndroidEngine.ini" 337
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 338
+"../../../Engine/Config/IOS/IOSEngine.ini" 339
+"../../../Engine/Config/Linux/LinuxEngine.ini" 340
+"C:/Users/Greg/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc" 341
+"../../../Engine/DerivedDataCache/Compressed.ddp" 342
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 343
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 344
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 345
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 346
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 347
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 348
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 349
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 350
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 352
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 353
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 355
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 356
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 359
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 362
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 363
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 365
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 366
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 367
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 368
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 370
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 371
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 372
+"../../../Engine/Content/EngineResources/Black.uasset" 373
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 381
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 385
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 386
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 387
+"../../../Engine/Content/EngineSounds/Master.uasset" 388
+"../../../Engine/Content/EngineSounds/Music.uasset" 389
+"../../../Engine/Content/EngineSounds/SFX.uasset" 390
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 391
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 392
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 393
+"../../../Engine/Content/EngineSounds/Voice.uasset" 394
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 395
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 396
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 397
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 398
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 399
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 400
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 401
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 402
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 403
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 404
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 405
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 406
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 407
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 408
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 409
+"C:/Users/Greg/AppData/Local/UnrealEngine/4.7/Saved/Config/Windows/SourceControlSettings.ini" 410
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 411
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Saved/Config/Windows/SourceControlSettings.ini" 412
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 413
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 414
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 415
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 416
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 417
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 418
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 419
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 420
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 421
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 424
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 425
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/CachedAssetRegistry.bin" 426
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset" 427
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" 428
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/CCABD312498B9FF9D42DC095797E3BA8.udd" 429
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/35C7D27E437A3CE93D0EE8B0DCBAF4BF.udd" 430
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 438
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 439
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 447
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 448
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 449
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset" 450
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 451
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Blueprints/TwinStickProjectile.uasset" 452
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Meshes/SM_Projectile.uasset" 453
+"../../../Engine/Content/TemplateResources/MI_Template_BaseOrange.uasset" 454
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 455
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Audio/TemplateTSS_WeaponFire.uasset" 456
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Meshes/UFO.uasset" 457
+"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 458
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_97AF58DC4155E__460E6FB60E853B73B1F9DF038B6B4C764FE8908B.udd" 459
+"../../../Engine/Content/Maps/Entry.umap" 460
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 461
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 462
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 463
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 464
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 465
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 466
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 467
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 468
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 469
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 470
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 472
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02.uasset" 473
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Meshes/CubeMesh.uasset" 474
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Meshes/CubeMaterial.uasset" 475
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/Meshes/TemplateCube_Rounded.uasset" 476
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 477
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Maps/StarterMap.umap" 478
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 479
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Fire01_Cue.uasset" 480
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Fire01.uasset" 481
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Fire.uasset" 482
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 483
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 484
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 485
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 486
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Water_N.uasset" 487
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 489
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 490
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 491
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 492
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 493
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Smoke01_Cue.uasset" 494
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Smoke01.uasset" 495
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Smoke.uasset" 496
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 497
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 498
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Fire_Sparks01.uasset" 499
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Sparks.uasset" 500
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Spark.uasset" 501
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Spark_Core.uasset" 502
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 503
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Steam01_Cue.uasset" 504
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Steam01.uasset" 505
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Steam_Lit.uasset" 506
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 507
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 508
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Lamp.uasset" 509
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Lamp_M.uasset" 510
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Lamp_N.uasset" 511
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 512
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 513
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 514
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 515
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 516
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 517
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_MacroVariation.uasset" 518
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 519
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 520
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 521
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 522
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 523
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 524
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 525
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 526
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 527
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 528
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 529
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 530
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 531
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 532
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 533
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 534
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 535
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 536
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 537
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 538
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 539
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 540
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 541
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 542
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 543
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 544
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 545
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Gradinet_01.uasset" 546
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 547
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 548
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 549
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 550
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 551
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 552
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 553
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 554
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 555
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 556
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 557
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 558
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 559
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 560
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 561
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 562
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 563
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 564
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 565
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Ground_Grass.uasset" 566
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 567
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 568
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 569
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 570
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 571
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Ground_Moss.uasset" 572
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 573
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 574
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 575
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 576
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 577
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 578
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 579
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Copper.uasset" 580
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 581
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Gold.uasset" 582
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 583
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Rust.uasset" 584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 585
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 586
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Metal_Steel.uasset" 587
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 588
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 589
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 590
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 591
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 592
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 593
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 594
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 595
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 596
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Rock_Slate.uasset" 597
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 598
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 599
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 600
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 601
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 602
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 603
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 604
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 605
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 606
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 607
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 608
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Tech_Panel.uasset" 609
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 610
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 611
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Water_Lake.uasset" 612
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Water_Ocean.uasset" 613
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Water_M.uasset" 614
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 615
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 616
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 617
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 618
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 620
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Wood_Oak.uasset" 621
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 622
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 623
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Wood_Pine.uasset" 624
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 625
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 626
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 627
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 628
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 629
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Chair.uasset" 630
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Chair_M.uasset" 631
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Chair_N.uasset" 632
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Floor_400x400.uasset" 633
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Basic_Floor.uasset" 634
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_400x200.uasset" 635
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Basic_Wall.uasset" 636
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 637
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 638
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Collapse_Cue.uasset" 639
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Collapse01.uasset" 640
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Collapse02.uasset" 641
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 642
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Birds01.uasset" 643
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Wind05.uasset" 644
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Wind06.uasset" 645
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 646
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Starter_Music01.uasset" 647
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 648
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 649
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 650
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/MaterialSphere.uasset" 651
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Chair.uasset" 652
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_CornerFrame.uasset" 653
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Frame.uasset" 654
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Frame_M.uasset" 655
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Frame_N.uasset" 656
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_DoorFrame.uasset" 657
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_GlassWindow.uasset" 658
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_Glass.uasset" 659
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_PillarFrame.uasset" 660
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_PillarFrame300.uasset" 661
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Statue.uasset" 662
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Statue.uasset" 663
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Statue_M.uasset" 664
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Statue_N.uasset" 665
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 666
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_TableRound.uasset" 667
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_TableRound.uasset" 668
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_TableRound_M.uasset" 669
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_TableRound_N.uasset" 670
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_WindowFrame.uasset" 671
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Cube.uasset" 672
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 673
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Sphere.uasset" 674
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__1BD0BB1463FC4E1C4F3B365BD06FB120B06AFF36.udd" 675
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__AECA9EA9EE2D00BE9FE7A28C62D0A4BB91C9BEAF.udd" 676
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__618705CFF5A7C2F9183E24E95E135091C1CC5457.udd" 677
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__A829EFE9CFE48598A61FC4708AF2B7B88965C53F.udd" 678
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__3425C08EEC077283DDD3FCE2D9791B64AE54B749.udd" 679
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5592FB464F8142F86D4CACBD3A642__896B0DAB69906910F34960D2B7425CF8F02CD371.udd" 680
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__51D9FD01E170370B98E8AE8A41758C11CB6CAC75.udd" 681
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__19A4CE2E97D6F232C3EFA705F58F74577F4570ED.udd" 682
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__F578AB5B89AB540C8FD4C39C3A3BBEC987A80494.udd" 683
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__C236D92CDAAAD6BD61C641EC3B4E0F775244BA58.udd" 684
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__7B7E90225AD9722714CD286F9231A3BAA0489E74.udd" 685
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6B79DA9245B8597F2159B4BDD71D5__3B499F72AFA29CAD51F6299D6B5FB739D7203810.udd" 686
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___1FD858BB5C84FE3B864AF1720B33A085BF341140.udd" 687
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___720D20AC5B3DCC00FFB092B21E049F4EB233457B.udd" 688
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___993758061E6BFE893635DEAEDD36326267C78FF7.udd" 689
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___2C96CD2E0F4EC54D7DB9FCE5627104A01F4BD3CF.udd" 690
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___9B1CE8D35EDEFFCB68AECED7B567C0475EE13487.udd" 691
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_AD73F310456DEC92C0A475AFB6E90435___0DE2C8FC1CD8D8C837D80AE9052EEB8B3D23D3F4.udd" 692
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__B36BC3D049F9B2E078079AFA272FAEEF295B0CBD.udd" 693
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__DBD6E1CAEE7F919A605850618D42C00F675F5D2B.udd" 694
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__23C7C9C85F600780C2EDE770DA7FFB266185F991.udd" 695
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__9BCAFDB8E31C7350A2169671B176DC63CA849E40.udd" 696
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__ADB623AEED514F232BA07F915485305BB7C39AB0.udd" 697
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__7D2D8DE0D8FAE7C7AB4D777A851BC78778852B55.udd" 698
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF433085EE__7855EC35440A02252348E182D1E2C4FEAC813751.udd" 699
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__0D8811F3254F471C9A68ABF36EAE41F9AA51268C.udd" 700
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF3D5500D7__E16735C150C9754CE504D8E867763F2A604856B8.udd" 701
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/AUDIO_0002_0000_OGG_0001_CD469D784CE5A724E7AC91BFEB714703.udd" 702
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/0/AUDIO_0002_0000_OGG_0001_E75A4F2F4CCFF455DEA17FBBE7ACBDC4.udd" 703
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/AUDIO_0002_0000_OGG_0001_832AA7D646A65116077516991F445FE9.udd" 704
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__B6F4F3261BF75B1F913D319603EA51DE5F0E8482.udd" 705
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__CDA1896823C41CCC449CCC1C98F9495D70C8961F.udd" 706
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__69BD35BA507893B8A83DE420123E10ADF4676BC0.udd" 707
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__BA407EC8E27C66BBF976938DCED9500C169580C2.udd" 708
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__2A2C68513C94E2DCC73256F6D175B63654E9ACB2.udd" 709
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D66B40A242D0476157170E991CF03__3FB06A88666440CCC5CF7FAB8C746BF078585B51.udd" 710
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___E64D0C26FA2ADE4B84466165C115CB2F0C3FF3C9.udd" 711
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___33CD24C6E1C4CFA0A26FC8E620929045E085F200.udd" 712
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___AE2FF071BCA3F940E29D5473727DE399FB3214DE.udd" 713
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___13D60E0D024E6839CBF652AD4032D8F48F2B3331.udd" 714
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___DE9B106187264518C3286099D553F382DE189A86.udd" 715
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DC2D79FC4991BAEACD5C08B78E3C2941___D77BD512C6B63AEB12BCD3E58151C602F3F15FD2.udd" 716
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__1C9FA1A7552B57FB56CC25E7FD15B8485CF16A99.udd" 717
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__F799F39DC543C6ED807858110B6FA125961250C0.udd" 718
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__8BFA6A51D8306576E7133F19A31991F34D866A4C.udd" 719
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__024E679DA931A0FB4681511AA0BE60E90DDFA1B9.udd" 720
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__5A3A3FEE92E9FB3AEB4FCB0DA9FA326DD0DB6DF0.udd" 721
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2EF91F43478B588C1E53949F7C1BB__BADE8793E52BE483458ECC7876BEF31BA7EBCC39.udd" 722
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___7BC89284183EBC06A61D57C5B7388333D78DE182.udd" 723
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___688F021558AD9728B611859D80D1E67D176A7832.udd" 724
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___1F6C78F02699E8A06CA5CE2A19A3D115DB617FC3.udd" 725
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___D7736C7AF4F5C6D182D1BB7A5EB882D4FD33A349.udd" 726
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___F8AD18668C50B2729BFB1626AD793102BE24CD6C.udd" 727
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___570D18B4994EE836E7EFFDBF62240F6482A7DBA8.udd" 728
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Shaders/WorkingDirectory/11208/2/WorkerOutputOnly.out" 729
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Shaders/WorkingDirectory/11208/0/WorkerOutputOnly.out" 730
+"C:/Users/Greg/Documents/GitHub/weaponTestBP/Intermediate/Shaders/WorkingDirectory/11208/1/WorkerOutputOnly.out" 731
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 732
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 733
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Maps/Minimal_Default.umap" 734
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF851038FE__F17F6C7B7D6204F6278B38D84D11E83F94572C51.udd" 735
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF851038FE__A5EB91A259DDD840ECA80B5DDC1537336C3E888F.udd" 736
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFE32B2B93__3FD899D164DA969F22D85B45D3F51AB451B63D46.udd" 737
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFE32B2B93__83C8C4748F18B16F424CD29BF0ED5527D74E0471.udd" 738
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFA4C08E39__319114816D1C0401FA3A1E468FA6BCE560128738.udd" 739
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFA4C08E39__4E2BE3AEB2C1FEAC57E10C09DF687362C4164641.udd" 740
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF5CCAFB97__0E6DB534B98BAC3EE8E501A5BC2117EE325A7B45.udd" 741
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF5CCAFB97__E65C086CC626AE328D305C4FBC879BAEC4071F92.udd" 742
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFCF95F585__D86CED3940C68FD25C71C6C3EA289C0B725CCF49.udd" 743
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFCF95F585__8C9DE3EA25EC15BBD76B5304C55F5C019E4EA209.udd" 744
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF3D5500D7__0FA9083FAA039C53EFD266B804B9288B13718DA8.udd" 745
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B15C0A7B452FD__2038CF020FD59F1CB03E729670CA76683232E92E.udd" 746
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_12__7AEEA07E29B82E62B9945AC62E833496EC7334D8.udd" 747
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_04__73CA4CB9B4B0C35749E038E682AAEFF0511723D4.udd" 748
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3820455E4BFB4__1B1EF2E509EA6DC4B667879C2B85EEC54C514088.udd" 749
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF6CE4EB67__D702D619DB819292CE2F23EE3B8148DB4F03ED89.udd" 750
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF6CE4EB67__9C1D52925CD9D65766B2B858D6979400CB6C5FA4.udd" 751
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A71BCF0247850__F98DAEE569C991D7D48957B65EDD7368D103E702.udd" 752
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFFB3B8130__C35052AA7919C84EA5116AAE95319EB79B89A5E4.udd" 753
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFFB3B8130__75A109E199515EC2D0122B3926F80FBF09CD1586.udd" 754
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_86__B91E89731F517F24EEA6C6B6D861D953AB17CF7B.udd" 755
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_76F19F1A4349D__A26F76AE9C6A117B1062F609E02E22B6D776E180.udd" 756
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF677C75C3__65B3A99BB6524DBADEE6327B9D863A0955CFF7C9.udd" 757
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF677C75C3__3E4906116BDBB437530BCBF17980184530A84BF7.udd" 758
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Maps/Advanced_Lighting.umap" 759
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 760
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 761
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 762
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 763
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 764
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 765
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 766
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 767
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 768
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 769
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 770
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 771
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_AssetPlatform.uasset" 772
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 773
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 774
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 775
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 776
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 777
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 778
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 779
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 780
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 781
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/TwinStickBP/TwinStickOverview.uasset" 782
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_A_S.uasset" 783
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_A_N.uasset" 784
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Wood_a_d.uasset" 785
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_White_Painted_Metal_N.uasset" 786
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_White_Painted_Metal_D.uasset" 787
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_UNV_Concrete02_N.uasset" 788
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_UNV_Concrete02.uasset" 789
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Underground_Base_Pipe_N.uasset" 790
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Underground_Base_Pipe_D.uasset" 791
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Stone_Brick_N.uasset" 792
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Stone_Brick_D.uasset" 793
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Sky_Stars.uasset" 794
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Sky_Clouds_M.uasset" 795
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Shelf_N.uasset" 796
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Shelf_M.uasset" 797
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Detail_03_D.uasset" 798
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Detail_02_N.uasset" 799
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_Detail_02_D.uasset" 800
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_11b_D.uasset" 801
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_10_N.uasset" 802
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_10_D.uasset" 803
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_09_D.uasset" 804
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_08_N.uasset" 805
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_08_D.uasset" 806
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_07_N.uasset" 807
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_07_D.uasset" 808
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_07b_D.uasset" 809
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_06_N.uasset" 810
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_06_D.uasset" 811
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_05_N.uasset" 812
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_05_D.uasset" 813
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_03_N.uasset" 814
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_03_D.uasset" 815
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_01_N.uasset" 816
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rock_01_D.uasset" 817
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Rocky_01_N.uasset" 818
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_RockMesh_N.uasset" 819
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_RockMesh_M.uasset" 820
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_PatchyGrass_N.uasset" 821
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_PatchyGrass_D.uasset" 822
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Paint_Metal_Rust_N.uasset" 823
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Paint_Metal_Rust_D.uasset" 824
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_PaintedMetal01_N.uasset" 825
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_PaintedMetal01.uasset" 826
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Scuffed_N.uasset" 827
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Scuffed_D.uasset" 828
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Rust_01_N.uasset" 829
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Rust_01_D.uasset" 830
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Painted_04_N.uasset" 831
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Painted_04_D.uasset" 832
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Metal03_N.uasset" 833
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Metal03_D.uasset" 834
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Metal01_N.uasset" 835
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Metal01_D.uasset" 836
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_N.uasset" 837
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_E.uasset" 838
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Noise_N.uasset" 839
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Dirt_N.uasset" 840
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Dirt_D.uasset" 841
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_Detail_N.uasset" 842
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_02_N.uasset" 843
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_02_D.uasset" 844
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_01_N.uasset" 845
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Ground_01_D.uasset" 846
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Gravel_N.uasset" 847
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Gravel_D.uasset" 848
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base_07_N.uasset" 849
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base_07.uasset" 850
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base_06_N.uasset" 851
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base_06.uasset" 852
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base04_N.uasset" 853
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base04_D.uasset" 854
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base02_N.uasset" 855
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Generic_Concrete_Base02.uasset" 856
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 857
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Door_N.uasset" 858
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Door_M.uasset" 859
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Dirt_N.uasset" 860
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Dirt_D.uasset" 861
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_DesertCrystal01_N.uasset" 862
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Wall_N.uasset" 863
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Wall_D.uasset" 864
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Wall07_N.uasset" 865
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Wall07.uasset" 866
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_N.uasset" 867
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Floor01_N.uasset" 868
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_Floor01.uasset" 869
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_D.uasset" 870
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_01_N.uasset" 871
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete_01_D.uasset" 872
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete01_N.uasset" 873
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Concrete01_D.uasset" 874
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Cobble_01_H.uasset" 875
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_04_R.uasset" 876
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_04_N.uasset" 877
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_04_D.uasset" 878
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleStone_04b_D.uasset" 879
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_CobbleDark_01_D.uasset" 880
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Cliff_N.uasset" 881
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Cliff_M.uasset" 882
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Bush_N.uasset" 883
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Bush_D.uasset" 884
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Burst_M.uasset" 885
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Base_Metal_Gray_N.uasset" 886
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Base_Metal_Gray_D.uasset" 887
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Bark02_N.uasset" 888
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_Bark02_D.uasset" 889
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_ArmorMetal01_N.uasset" 890
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/T_ArmorMetal01.uasset" 891
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/Sky54a2048LDR.uasset" 892
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/Sky54a2048.uasset" 893
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/Metal_Tile_2_N.uasset" 894
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Textures/Metal_Tile_2.uasset" 895
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 896
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF9166AFA3__67336C2FAEA2F12AD4648C90340950A309934ADA.udd" 897
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF9166AFA3__96D61A389FB6307264E4BA2D9A4CB9ED55B18555.udd" 898
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 899
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 900
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Tube.uasset" 901
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 902
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 903
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 904
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Trim.uasset" 905
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Torus.uasset" 906
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Plane.uasset" 907
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 908
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 909
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Pipe.uasset" 910
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 911
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 912
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Shapes/Shape_Cone.uasset" 913
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Shelf.uasset" 914
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Rock.uasset" 915
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 916
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 917
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Door.uasset" 918
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/Materials/M_Bush.uasset" 919
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Stairs.uasset" 920
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Shelf.uasset" 921
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Rock.uasset" 922
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 923
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Door.uasset" 924
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Couch.uasset" 925
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Props/SM_Bush.uasset" 926
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 927
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 928
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 929
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/Materials/M_Burst.uasset" 930
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Particles/P_Explosion.uasset" 931
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF16B8265F__8B2165E6946D8D0B3820A5E84198712ECBACA5BE.udd" 932
+"C:/Users/Greg/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF16B8265F__F1185B64D88D6D77E0D1BE4B3810BC7B792FD75F.udd" 933
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 934
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 935
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Explosion_Cue.uasset" 936
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Explosion01.uasset" 937
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Explosion02.uasset" 938
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Light02_Cue.uasset" 939
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Light02.uasset" 940
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Light01_Cue.uasset" 941
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Audio/Light01.uasset" 942
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 943
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 944
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_500x500.uasset" 945
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_400x400.uasset" 946
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Wall_400x300.uasset" 947
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/SM_FloorPiece500x500.uasset" 948
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/SM_CeilingPiece500x500.uasset" 949
+"../../../../../../Users/Greg/Documents/GitHub/weaponTestBP/Content/StarterContent/Architecture/Pillar_50x500.uasset" 950
